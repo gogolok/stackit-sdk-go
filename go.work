@@ -25,6 +25,7 @@ use (
 	./examples/runtime
 	./examples/secretsmanager
 	./examples/serviceaccount
+	./examples/skcf
 	./examples/ske
 	./examples/sqlserverflex
 	./examples/waiter
@@ -49,6 +50,7 @@ use (
 	./services/serverbackup
 	./services/serviceaccount
 	./services/serviceenablement
+	./services/skcf
 	./services/ske
 	./services/sqlserverflex
 )
